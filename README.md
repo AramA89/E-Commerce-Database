@@ -38,6 +38,8 @@ I want a back end for my e-commerce website that uses the latest technologies, s
 
 ## Video Walkthrough
 
-
+https://arama89.github.io/E-Commerce-Database/
 
 ## GitHub Repository
+
+https://github.com/AramA89/E-Commerce-Database
